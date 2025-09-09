@@ -13,7 +13,7 @@ O <b>Bot de Pagamentos Telegram PushinPay</b> é um bot de Telegram pronto para 
 
 - <img src="https://media.licdn.com/dms/image/v2/D4D0BAQGMvyp3vXJOBw/company-logo_200_200/company-logo_200_200/0/1721991888260/pushin_pay_logo?e=2147483647&v=beta&t=eTbieyI-wGHv93hNKomv0nVLE_kcmhBl8LDKB762QCs" 
        width="16" height="16" 
-       style="vertical-align: middle; margin-left: 8px; margin-right: 4px;"/>
+       style="vertical-align: middle; margin-left: 16px; margin-right: 4px;"/>
 - 🔒 Controle de acesso automático ao grupo
 - 🗃️ Banco de dados SQLite integrado
 - 📅 Expiração automática de assinaturas
