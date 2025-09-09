@@ -11,7 +11,7 @@
 
 O <b>Bot de Pagamentos Telegram PushinPay</b> é um bot de Telegram pronto para uso, que automatiza o acesso a grupos VIP mediante pagamento via PIX (PushinPay). Ele já vem com integração ao banco de dados SQLite para controle de usuários, planos, expiração automática e muito mais!
 
-- <a href="https://pushinpay.com.br/" target="_blank">
+- <a href="https://pushinpay.com.br/" target="_blank" style="text-decoration: none;">
     <img src="https://media.licdn.com/dms/image/v2/D4D0BAQGMvyp3vXJOBw/company-logo_200_200/company-logo_200_200/0/1721991888260/pushin_pay_logo?e=2147483647&v=beta&t=eTbieyI-wGHv93hNKomv0nVLE_kcmhBl8LDKB762QCs" 
          width="16" height="16" 
          style="vertical-align: middle;"/>
@@ -23,6 +23,7 @@ O <b>Bot de Pagamentos Telegram PushinPay</b> é um bot de Telegram pronto para 
 - 📸 Envio de imagem de boas-vindas (personalizável)
 - 🚪 Expulsão automática do grupo após expiração da assinatura
 - Código aberto para a comunidade!
+
 
 ---
 
