@@ -22,8 +22,7 @@ O <b>Bot de Pagamentos Telegram PushinPay</b> é um bot de Telegram pronto para 
 - 👤 Painel de planos e suporte
 - 📸 Envio de imagem de boas-vindas (personalizável)
 - 🚪 Expulsão automática do grupo após expiração da assinatura
-- Código aberto para a comunidade!
-
+- 🔔 Envio de notificação de venda para o Owner.
 
 ---
 
