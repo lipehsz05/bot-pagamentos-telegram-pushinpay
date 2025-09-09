@@ -1,6 +1,4 @@
-# Bot de Pagamentos Telegram PushinPay 🤖
-
-<h1 align="center">Bot de Pagamentos Telegram PushinPay</h1>
+<h1 align="center">Bot de Pagamentos Telegram PushinPay 🤖</h1>
 
 <p align="center">
   <b>Automatize o acesso ao seu grupo VIP do Telegram com pagamentos via PIX!</b><br>
@@ -13,7 +11,7 @@
 
 O <b>Bot de Pagamentos Telegram PushinPay</b> é um bot de Telegram pronto para uso, que automatiza o acesso a grupos VIP mediante pagamento via PIX (PushinPay). Ele já vem com integração ao banco de dados SQLite para controle de usuários, planos, expiração automática e muito mais!
 
-- 💸 Pagamento via PIX (PushinPay)
+- <img src="https://play-lh.googleusercontent.com/rZ3iKAteqcYZLSnMvVW66rqqlQdRQh9JXPFdLXkcBR3VxZ0jXz6T8ARRHzGKS72GYSMB=w600-h300-pc0xffffff-pd"/> Pagamento via PIX (PushinPay)
 - 🔒 Controle de acesso automático ao grupo
 - 🗃️ Banco de dados SQLite integrado
 - 📅 Expiração automática de assinaturas
@@ -101,19 +99,17 @@ Se for utilizar comercialmente, mantenha os créditos e, se possível, divulgue 
 
 ## 👤 Contato & Redes
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/lipehsz/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30"/>
+<div align="center"> 
+  <a href="https://instagram.com/lipehsz" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://instagram.com/lipehsz" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-@lipehsz-E4405F?style=flat&logo=instagram&logoColor=white"/>
+  <a href="mailto:ftsu2570@gmail.com" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="mailto:ftsu2570@gmail.com">
-    <img src="https://img.shields.io/badge/Email-ftsu2570@gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+  <a href="https://www.linkedin.com/in/lipehsz" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a> 
+</div>
 
 ---
 
